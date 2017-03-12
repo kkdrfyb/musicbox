@@ -36,7 +36,7 @@ ________     __________________________  _____ _     _
 
 from setuptools import setup, find_packages
 
-
+nihao
 setup(
     name='NetEase-MusicBox',
     version='0.2.0.8',
